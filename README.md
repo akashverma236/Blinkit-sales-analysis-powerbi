@@ -5,6 +5,10 @@ nteractive Grocery Sales Analysis Dashboard built using Microsoft Power BI with 
 ## Project Overview
 This project is an interactive sales analysis dashboard built using Microsoft Power BI. The dashboard analyzes grocery sales data to identify key trends, product demand, and outlet performance.
 
+#image
+- Screenshot 2026-03-09 231109.png
+- BLINKIT PROJECT.pbit 
+
 ## Tools Used
 - Microsoft Power BI
 - Microsoft Excel
